@@ -18,6 +18,10 @@ app.use('/api/cars' , carsRoute);
 app.use('/api/users' , usersRoutes);
 app.use('/api' , bookingsRoutes);
 
+app.get("/", function (req, res) {
+    res.send("Hello world");
+});
+
 app.listen(PORT, () => {
     console.log(`Server is being hosted on localhost:${PORT}`);
 })
