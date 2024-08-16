@@ -19,7 +19,7 @@ This repository contains the clone of zoom car (car rental application), using t
 
 ## FrontEnd Deployed URL
 
-🔸*Click on the Badge to Check out My Markdown Viewer Application Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://zoomcar-clone-psv.netlify.app/login)
+🔸*Click on the Badge to Check out My Markdown Viewer Application Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://zoomcar-clone-psv.netlify.app)
 
 ## Technologies Used in FrontEnd and BackEnd 🛠️
 
